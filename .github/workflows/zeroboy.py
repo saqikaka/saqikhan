@@ -49,17 +49,17 @@ def jalan(z):
 ##### LOGO #####
 logo = """ -----------------------------•◈•
 (  __)\\ ____--------------_------------•◈•
-|__(~)    •||•THE - AAHIL -OFFICAL------•◈•
-|__\~~) •||•RANA - RAJPUT---------------•◈•
-|__(-----\  •◈•------BLACK-TIGER--------•◈•
+|__(~)    •||•THE - SAQIKAKA -OFFICAL------•◈•
+|__\~~) •||•SAQI - KAKA---------------•◈•
+|__(-----\  •◈•-----NIAZI-FIGHTER-GANG--------•◈•
 |__~~~\ •◈•-----█-------⑦-------█------•◈•
 |__~~~\ •◈•-----█-------⑧-------█------•◈•
 |__~~~\ •◈•-----█-------⑥-------█------•◈•
 \033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mRana Aahil
-\033[1;96mInstagram \033[1;93m: \033[1;FlowRana
-\033[1;96mFacebook  \033[1;93m: \033[1; Aahilrna4072
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Therana/zero
+\033[1;96mAuthor  SAQIB KHAN NINZAI
+\033[1;96mInstagr Saqi kaka
+\033[1;96mFacebook  https://www.facebook.com/saqibkhan.ninzai.9
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/SAQIKAKA/zero
 \033[1;91m======================================="""
 
 def tik():
@@ -93,9 +93,9 @@ CorrectPassword = "rana"
 loop = 'true'
 while (loop == 'true'):
     username = raw_input("\033[1;96m[☆] \x1b[1;93mUsername Of Tool \x1b[1;96m>>>> ")
-    if (username == CorrectUsername):
+    if (username == CorrectUsername Saqi
     	password = raw_input("\033[1;96m[☆] \x1b[1;93mPassword Of Tool \x1b[1;96m>>>> ")
-        if (password == CorrectPassword):
+        if (password == CorrectPassword):kaka
             print "Logged in successfully as " + username
             loop = 'false'
         else:
